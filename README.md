@@ -18,7 +18,7 @@ O script espera uma tabela chamada `contatos` com as seguintes colunas e tipos:
 | Nome da Coluna | Tipo | Descrição |
 | :--- | :--- | :--- |
 | `id` | int8 (Identity) | Chave primária automática |
-| `name` | text | Nome do contacto (personalização) |
+| `name` | varchar | Nome do contacto (personalização) |
 | `telefone` | text | Número de telemóvel (com DDI e DDD, ex: `5511999999999`) |
 
 ### 2. Variáveis de Ambiente (.env)
