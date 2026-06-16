@@ -1,6 +1,5 @@
 ## Integração Supabase + Z-API (WhatsApp)
-
-Este repositório contém a resolução do desafio técnico de automação de disparos de mensagens personalizadas via WhatsApp. O objetivo do projeto é conectar a uma base de dados no Supabase, recolher informações de contactos cadastrados e realizar disparos utilizando a API da Z-API.
+O objetivo do projeto é conectar a uma base de dados no Supabase, recolher informações de contactos cadastrados e realizar disparos utilizando a API da Z-API.
 
 ##  Funcionalidades e Boas Práticas Implementadas
 
